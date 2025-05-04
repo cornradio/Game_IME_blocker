@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>ico2.ico</ApplicationIcon>
+    <ApplicationIcon>imgblock.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
@@ -107,6 +107,7 @@
   <ItemGroup>
     <Content Include="doge.ico" />
     <Content Include="ico2.ico" />
+    <Content Include="imgblock.ico" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
